@@ -88,7 +88,7 @@ CREATE TABLE IF NOT EXISTS audit_logs (
 );
 
 
-⚙️ Installation & Setup
+##⚙️ Installation & Setup
 1. Clone Project
 git clone https://github.com/EloraPeter/Full-SU-Voting-System.git
 
