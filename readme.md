@@ -231,6 +231,3 @@ GitHub: [https://github.com/EloraPeter](https://github.com/EloraPeter)
 This project is for educational purposes only.
 
 ```
-
-Just tell me 👍
-```
