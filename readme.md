@@ -229,5 +229,3 @@ GitHub: [https://github.com/EloraPeter](https://github.com/EloraPeter)
 ## 📜 License
 
 This project is for educational purposes only.
-
-```
