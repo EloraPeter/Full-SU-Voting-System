@@ -1,6 +1,6 @@
 
 
-````md
+
 # 🗳️ Student Union Voting System (Full Stack)
 
 A secure full-stack voting system built with Node.js, Express, PostgreSQL, and vanilla frontend (HTML/CSS/JS). It supports student elections with admin control, authentication, and secure vote tracking.
